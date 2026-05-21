@@ -33,16 +33,22 @@ export function LandingView({ onLoginSuccess }: LandingViewProps) {
       division: "Pembinaan / Perpustakaan Utama",
     },
     {
-      name: "Andrianto Ginting, S.H., M.H. (Jaksa Senior)",
-      role: "JAKSA" as UserRole,
-      nip: "198205162007011015",
-      division: "Tindak Pidana Khusus (Pidsus)",
+      name: "Rubintan Sagala, S.H. (Staff Perpustakaan)",
+      role: "PEGAWAI" as UserRole,
+      nip: "197204031996032001",
+      division: "Perpustakaan dan Dokumentasi Hukum (Pembinaan)",
     },
     {
-      name: "Laras Situmorang, A.Md.",
+      name: "Doris Vine Siagian.,SH",
       role: "PEGAWAI" as UserRole,
-      nip: "199411082019032008",
-      division: "Intelijen",
+      nip: "197511202002122002",
+      division: "Perpustakaan dan Dokumentasi Hukum (Pembinaan)",
+    },
+     {
+      name: "Adventi Sitompul.,Amd",
+      role: "PEGAWAI" as UserRole,
+      nip: "1983120200212002",
+      division: "Perpustakaan dan Dokumentasi Hukum (Pembinaan)",
     },
   ];
 
